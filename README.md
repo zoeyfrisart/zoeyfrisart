@@ -178,8 +178,6 @@
   />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yannick1691&show_icons=true" alt="yannick1691" /></p>
-
 <p align="center">
 <a href="https://dev.to/niceyannick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="niceyannick" height="30" width="30" /></a>
 <a href="https://twitter.com/niceyannick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="niceyannick" height="30" width="30" /></a>
