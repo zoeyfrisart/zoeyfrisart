@@ -5,7 +5,10 @@
 
 - 👨‍💻 Check out my portfolio at [https://yannick-frisart.nl/](https://yannick-frisart.nl/)
 
-<p align="left">
+</br>
+</br>
+
+<p align="center">
   <img
     src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
     alt="babel"
