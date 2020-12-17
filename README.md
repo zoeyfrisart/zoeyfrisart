@@ -187,3 +187,7 @@
 <a href="https://linkedin.com/in/yannick-frisart" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yannick-frisart" height="30" width="30" /></a>
 <a href="https://dribbble.com/niceyannick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="niceyannick" height="30" width="30" /></a>
 </p>
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannick1691&theme=radical)
+![Yannick's github stats](https://github-readme-stats.vercel.app/api?username=yannick1691&theme=radical&show_icons=true&count_private=true)
