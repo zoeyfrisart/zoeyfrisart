@@ -5,7 +5,7 @@
 
 - 👨‍💻 Check out my portfolio at [https://yannick-frisart.nl/](https://yannick-frisart.nl/)
 
-- Open translate and review content via [crowdin](https://crowdin.com/profile/niceyannick)
+- :globe_with_meridians: Open translate and review content via [crowdin](https://crowdin.com/profile/niceyannick)
 
 </br>
 </br>
