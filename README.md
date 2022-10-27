@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yannick</h1>
+<h1 align="center">Hi 👋, I'm Zoey</h1>
 <h3 align="center">Front-end developer at Yummygum and student Information Technology at Inholland haarlem.</h3>
 
 - 🌱 I’m currently learning **Animations, on page performance**
@@ -185,7 +185,7 @@
 
 <p align="center">
 <a href="https://dev.to/niceyannick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="niceyannick" height="30" width="30" /></a>
-<a href="https://twitter.com/niceyannick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="niceyannick" height="30" width="30" /></a>
+<a href="https://twitter.com/ZoeyFrisart" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="niceyannick" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/yannick-frisart" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yannick-frisart" height="30" width="30" /></a>
 <a href="https://dribbble.com/niceyannick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="niceyannick" height="30" width="30" /></a>
 </p>
