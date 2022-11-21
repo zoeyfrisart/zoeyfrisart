@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Animations, on page performance**
 
-- 👨‍💻 Check out my portfolio at [https://yannick-frisart.nl/](https://yannick-frisart.nl/)
-
 - :globe_with_meridians: Open translate and review content via [crowdin](https://crowdin.com/profile/niceyannick)
 
 </br>
