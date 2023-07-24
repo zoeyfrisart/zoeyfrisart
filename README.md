@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoey Frisart</h1>
-<h3 align="center">Front-end developer at Yummygum and student Information Technology at Inholland haarlem.</h3>
+<h3 align="center">Developer and server administrator at Yummygum</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yannick1691&label=Profile%20views&color=0e75b6&style=flat" alt="yannick1691" /> </p>
 
