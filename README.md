@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Zoey Frisart</h1>
+<h1 align="center">Hi <img src="https://github.com/zoeyfrisart/zoeyfrisart/blob/main/meow_wave_peak.png" height="32"/>, I'm Zoey Frisart</h1>
 <h3 align="center">Developer and server administrator at Yummygum</h3>
-<p>In my day-to-day life, you can find me coding primarily in TypeScript. I've been coding since I was 13 years old and continue to do so daily with love. During my career, I had the pleasure to work with several different companies and amazing colleagues who guided me along the way. Besides coding for work, I also try to spend my time coding for good, such as implementing AI to moderate Discord servers within the LGBT community. Also currently the primary developer/product owner for <a href="https://bobbyapp.co/" target="_blank" rel="noreferrer">Bobby</a>.</p>
-<a href="https://zoey-frisart.com" target="_blank">Check out my work here</a>
+<p>I go by she/her pronoun; in my day-to-day life, you can find me coding primarily in TypeScript. I've been coding since I was 13 years old and continue to do so daily with love. During my career, I had the pleasure to work with several different companies and amazing colleagues who guided me along the way. Besides coding for work, I also try to spend my time coding for good, such as implementing AI to moderate Discord servers within the LGBTQIA+ community. Also, I am currently the Bobby app's primary developer/product owner. If you're interested in finding out more about me and my work, you can check out <a href="https://zoey-frisart.com" target="_blank">my portfolio</a>.</p>
+
+<p>Currently working on Transition Journey, an app to keep track of your gender transition process, stored entirely locally with a privacy-first approach.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yannick1691&label=Profile%20views&color=0e75b6&style=flat" alt="yannick1691" /> </p>
 
